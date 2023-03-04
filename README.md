@@ -23,4 +23,4 @@ Create a copy of this, and replace the values:
 
 | NAME         | YEAR     | INTERESTS |
 |--------------|-----------|------------|
-| Your Name | Your year      | Your interests |
+| Sajal Mandrekar | 4      | Linux, Data Analytics, ML |
